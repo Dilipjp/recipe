@@ -1,6 +1,6 @@
 # Getting Started with Kitchen-Magic App
 
-This project was developed with ReactJa, MongoDB.
+This project was developed with ReactJs, MongoDB.
 
 ## Available Scripts
 
