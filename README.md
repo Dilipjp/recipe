@@ -1,6 +1,19 @@
-# Getting Started with Kitchen-Magic App
+# Kitchen-Magic App 🍽️  
 
-This project was developed with ReactJs and MongoDB.
+Kitchen-Magic is a recipe search web application designed to help users find and explore recipes based on ingredients, keywords, or categories. With an intuitive interface, users can search for recipes, view detailed instructions, and save their favorite recipes for future reference.  
+
+This project was developed using **React.js** for the front end and **MongoDB** for the database, along with **Firebase Authentication** for secure user login and **Edamam API** for fetching recipe data.  
+
+## Features  
+
+✅ **Recipe Search:** Users can search for recipes by entering keywords or ingredients.  
+✅ **Detailed Recipe View:** Each recipe includes a list of ingredients, step-by-step instructions, cooking time, and nutritional information.  
+✅ **User Authentication:** Secure login and registration using **Firebase Authentication** (Email/Password, Google Sign-in, etc.).  
+✅ **Favorite Recipes:** Registered users can save their favorite recipes for quick access later.  
+✅ **Responsive Design:** The app is optimized for desktops, tablets, and mobile devices.  
+✅ **Fast and Scalable:** The backend is built with **MongoDB**, ensuring smooth performance even with a growing number of recipes.  
+
+---
 
 ## Screenshots
 
@@ -12,6 +25,12 @@ This project was developed with ReactJs and MongoDB.
 
 ### Recipe Details
 ![Recipe Details](https://github.com/Dilipjp/recipe/blob/main/screenshots/Screenshot%202024-03-26%20at%2020.17.43.png)
+
+### Prerequisites  
+
+- **Node.js** installed on your machine  
+- A Firebase project set up for authentication  
+- API keys for **Edamam API**  
 
 ## Available Scripts
 
