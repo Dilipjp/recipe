@@ -1,6 +1,6 @@
 # Getting Started with Kitchen-Magic App
 
-This project was developed with ReactJs, MongoDB.
+This project was developed with ReactJs and MongoDB.
 
 ## Screenshots
 
@@ -51,7 +51,7 @@ Recipe Search Web Site
 User Registration: Allow users to create accounts to save their favorite recipes and customize their experience.\
 Search Functionality: Provide a search bar to allow users to search for recipes based on keywords, ingredients, or categories.\
 Recipe Display: Display recipes with ingredients, instructions, cooking time, and nutritional information.\
-Responsive Design: Ensure the website is optimized for various devices, including desktops, tablets, and smartphones.\
+Responsive Design: Ensure the website is optimized for various devices, including desktops, tablets, and smartphones.
 
 # Non-Functional Requirements:
 
@@ -62,10 +62,10 @@ Accessibility: Ensure the website is accessible to users with disabilities, foll
 Usability: Design the website with a user-friendly interface and intuitive navigation.\
 Reliability: Ensure the website is available and functional at all times, with minimal downtime.\
 Compatibility: Ensure compatibility with different web browsers and operating systems.\
-Legal Compliance: Ensure compliance with data protection regulations and copyright laws.\
+Legal Compliance: Ensure compliance with data protection regulations and copyright laws.
 
 # Technologies
 
 React.js for the front end \
 MongoDB for the database \
-RESTful API \
+RESTful API 
