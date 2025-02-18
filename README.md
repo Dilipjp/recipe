@@ -5,7 +5,7 @@ This project was developed with ReactJs, MongoDB.
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](https://github.com/Dilipjp/recipe/blob/main/screenshots/Screenshot%202024-03-26%20at%2020.17.12.png)
 
 ### Recipe Search
 ![Recipe Search](screenshots/recipe_search.png)
