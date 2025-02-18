@@ -2,6 +2,17 @@
 
 This project was developed with ReactJs, MongoDB.
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home_page.png)
+
+### Recipe Search
+![Recipe Search](screenshots/recipe_search.png)
+
+### Recipe Details
+![Recipe Details](screenshots/recipe_details.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
