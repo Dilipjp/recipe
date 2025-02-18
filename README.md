@@ -11,7 +11,7 @@ This project was developed with ReactJs, MongoDB.
 ![Recipe Search](https://github.com/Dilipjp/recipe/blob/main/screenshots/Screenshot%202024-03-26%20at%2020.17.31.png)
 
 ### Recipe Details
-![Recipe Details](screenshots/recipe_details.png)
+![Recipe Details](https://github.com/Dilipjp/recipe/blob/main/screenshots/Screenshot%202024-03-26%20at%2020.17.43.png)
 
 ## Available Scripts
 
